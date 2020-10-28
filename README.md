@@ -12,10 +12,10 @@ Below is the provisional schedule for the sessions and leaders (we may want to s
 | Chapter                             | Leader   | Time             |
 | ----------------------------------- | -------- | ---------------- |
 | 1: Introduction                     | Magnus   | 05/11/20 4pm-6pm |
-| 2: Probability Distributions        | Mike     | 12/11/20 4pm-6pm |
-| 3: Linear Models for Regression     | Nada     | 19/11/20 4pm-6pm |
-| 4: Linear Models for Classification | Chunchao | 26/11/20 4pm-6pm |
-| 5: Neural Networks                  | Matt     | 03/12/20 4pm-6pm |
-| 6: Kernel Methods                   | Tom      | 10/12/20 4pm-6pm |
-| 8: Graphical Models                 | Mauricio | 17/12/20 4pm-6pm |
+| 2: Probability Distributions        | Mike     | 19/11/20 4pm-6pm |
+| 3: Linear Models for Regression     | Nada     | 03/12/20 4pm-6pm |
+| 4: Linear Models for Classification | Chunchao | 17/12/20 4pm-6pm |
+| 5: Neural Networks                  | Matt     | 07/01/21 4pm-6pm |
+| 6: Kernel Methods                   | Tom      | 21/01/21 4pm-6pm |
+| 8: Graphical Models                 | Mauricio | 04/02/21 4pm-6pm |
 | TBC                                 | TBC      | TBC              |
