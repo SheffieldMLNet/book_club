@@ -5,7 +5,7 @@ We will be reading [Pattern Recognition And Machine Learning by Chris Bishop](ht
 
 - Giving a short (~10 mins) summary of the key content in the chapter at the start of the session, and maybe highlighting a few key equations and plots.
 - Moderating the discussion and making sure everyone has a chance to speak and ask questions.
-- Deciding on the exercises for the group for that week, listing them in the exercises.md file a few days before the session, and hopefully have the solutions to hand for the session (solutions for many of the exercises in the book can be found [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)). 
+- Deciding on the exercises for the group for that week, listing them in the exercises.md file a few days before the session, and hopefully have the solutions to hand for the session (solutions for many of the exercises in the book can be found [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)) and also [here](https://github.com/zhengqigao/PRML-Solution-Manual). 
  
 Below is the provisional schedule for the sessions and leaders (we may want to skip a few of the later chapters): 
 
