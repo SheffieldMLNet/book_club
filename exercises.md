@@ -15,7 +15,8 @@ Have a go at (in order of 'importance' maybe?)
 Ch 3
 ----
 
-TBC
+- 3.1 show that tanh and sigmoids basis functions are equivalent 
+- 3.4 show that noise on linear model inputs is equivalent to weight decay 
 
 Ch 4
 ----
