@@ -9,13 +9,9 @@ We will be reading [Pattern Recognition And Machine Learning by Chris Bishop](ht
  
 Below is the provisional schedule for the sessions and leaders (we may want to skip a few of the later chapters): 
 
-| Chapter                             | Leader   | Time             |
+| Section                             | Leader   | Time             |
 | ----------------------------------- | -------- | ---------------- |
-| 1: Introduction                     | Magnus   | 05/11/20 4pm-6pm |
-| 2: Probability Distributions        | Mike     | 19/11/20 4pm-6pm |
-| 3: Linear Models for Regression     | Nada     | 03/12/20 4pm-6pm |
-| 4: Linear Models for Classification | Chunchao | 17/12/20 4pm-6pm |
-| 5: Neural Networks                  | Matt     | 14/01/21 4pm-6pm |
-| 6: Kernel Methods                   | Tom      | 28/01/21 4pm-6pm |
-| 8: Graphical Models                 | Mauricio | 11/02/21 4pm-6pm |
-| TBC                                 | TBC      | TBC              |
+| 5.1-5.3 (Neural Networks)           | Magnus      | 11/02/21 16:00             |
+| 5.4-5.7 (Neural Networks)           | Mauricio | 25/02/21 |
+| 6.1-6.3 (Kernel Methods)            | Tom      | 11/03/21|
+| TBC |TBC|TBC|
